@@ -1,0 +1,11 @@
+{
+  "name": "cool-components",
+  "version": "1.0.0",
+  "description": "Components that are cool (this is a testing repository, please don't use this in production).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
